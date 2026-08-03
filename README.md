@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="light.svg">
-    <img src="dark.svg" alt="Vignesh's GitHub profile banner" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="dark.svg">
+    <img src="light.svg" alt="Vignesh's GitHub Profile banner" width="100%">
   </picture>
 </p>
 
@@ -10,10 +10,10 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 CSE (AI & ML) student, currently training at **NxtWave Academy**
+- 🎓 CSE (AI & ML) student
 - 🧠 On a mission to become an **AI Engineer**
 - 🎨 Also work as a **Graphic Designer** — I mix logic with visuals
-- 📊 Learning **Data Analysis with Pandas**, and grinding through **DSA** topic by topic
+- 📊 Learning **GEN AI**, and grinding through **DSA** topic by topic
 - 🌱 Currently building my portfolio, one project at a time
 - ⚡ Fun fact: I design as sharply as I code — bold typography, clean grids, no clutter
 
@@ -53,23 +53,24 @@
 </p>
 
 ---
+### 🚀 What I'm Focused On Right Now
 
-### 📊 GitHub Stats
+- 🧩 Solving DSA problems daily — arrays through dynamic programming
+- 📊 Practicing real-world problem solving skills
+- 🎨 Building out a design portfolio alongside my technical work
+- 📚  AI/ML career
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vigky-in&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigky-in&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigky-in&theme=tokyonight&hide_border=true" />
-</p>
+### 📌 Featured Work
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vigky-in&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+> Projects in progress — check back soon, or explore my [pinned repositories](https://github.com/vigky-in?tab=repositories) above.
 
----
+| Project | Description | Status |
+|---|---|---|
+| DSA Practice | Topic-wise solved problems with notes | 🔄 In Progress |
+| Pandas Projects | Data exploration & analysis notebooks | 🔄 In Progress |
+| Design Portfolio | Selected Photoshop / graphic design work | 🔄 In Progress |
+
 
 ### 🌐 Connect with Me
 
