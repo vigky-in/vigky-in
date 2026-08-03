@@ -183,7 +183,7 @@
       <text x="490" y="312" font-family="Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="700"
             letter-spacing="1" fill="#06B6D4">CURRENT FOCUS</text>
       <text x="660" y="312" font-family="Segoe UI, Arial, sans-serif" font-size="13.5"
-            fill="#475569">Trustworthy AI - Edge Intelligence</text>
+            fill="#475569">Skill  Building</text>
     </g>
     <g opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="1.45s" dur="0.5s" fill="freeze"/>
