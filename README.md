@@ -1,21 +1,19 @@
-<h1 align="center">Hi there, I'm Vignesh 👋</h1>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=CSE+(AI+%26+ML)+Student;Aspiring+AI+Engineer;Graphic+Designer;Learning+DSA+%2B+Python+%2B+GEN AI" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="light.svg">
+    <img src="dark.svg" alt="Vignesh's GitHub profile banner" width="100%">
+  </picture>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 CSE (AI & ML) student
+- 🎓 CSE (AI & ML) student, currently training at **NxtWave Academy**
 - 🧠 On a mission to become an **AI Engineer**
 - 🎨 Also work as a **Graphic Designer** — I mix logic with visuals
-- 📊 Learning **GEN AI**, and grinding through **DSA** topic by topic
+- 📊 Learning **Data Analysis with Pandas**, and grinding through **DSA** topic by topic
 - 🌱 Currently building my portfolio, one project at a time
 - ⚡ Fun fact: I design as sharply as I code — bold typography, clean grids, no clutter
 
